@@ -1,0 +1,3 @@
+[submodule "Fornax"]
+	path = Fornax
+	url = git@axenide:Axenide/Fornax.git
